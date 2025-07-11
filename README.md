@@ -1,6 +1,6 @@
 - It's @shuri-8
 - New to GitHub, not to learning
-- Currently focusing on Java & Webdev~
+- Currently focusing on Java & Webdev
 -Interned at CRIS (Centre for Railway Information Systems)
 
 <!---
